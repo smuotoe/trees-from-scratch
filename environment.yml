@@ -1,0 +1,8 @@
+name: trees-from-scratch
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - black
+  - pandas
